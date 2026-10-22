@@ -11,7 +11,7 @@
 - Me gusta mucho comer, especialmente si son chilaquiles o nopales
 - Me gusta jugar videojuegos
 
-## Tecnologías que quiero aprender
+## Tecnologías que quiero aprender 📌
 - Desarrollo web
 - Programación
 - Diseño digital
