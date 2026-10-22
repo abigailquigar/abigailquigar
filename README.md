@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hola, soy Abigaíl Quintana García 🦈
 
-<!--
-**abigailquigar/abigailquigar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí 📝
+- Estudio *Ing. de Software* en la Facultad de Ingeniería Electromecánica
+- Soy de Manzanillo, Colima
+- Actualmente estoy aprendiendo Git y C en la universidad
+- Mi meta es lograr salir de la carrera con un buen promedio y sabiendo realizar cualquier trabajo que respecte a mi área
 
-Here are some ideas to get you started:
+## Mis intereses 🥐
+- Me gusta mucho escuchar música, disfruto casi de todo género
+- Me gusta mucho comer, especialmente si son chilaquiles o nopales
+- Me gusta jugar videojuegos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías que quiero aprender
+- Desarrollo web
+- Programación
+- Diseño digital
+
+  ## Contacto 📧
+  - aquintana3@ucol.mx (correo institucional)
+  - [LinkedIn](https://www.linkedin.com/in/abiga%C3%ADl-quintana-garc%C3%ADa-104005446/)
