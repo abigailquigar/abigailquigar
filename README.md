@@ -7,9 +7,9 @@
 - Mi meta es lograr salir de la carrera con un buen promedio y sabiendo realizar cualquier trabajo que respecte a mi área
 
 ## Mis intereses 🥐
-- Me gusta mucho escuchar música, disfruto casi de todo género
-- Me gusta mucho comer, especialmente si son chilaquiles o nopales
-- Me gusta jugar videojuegos
+- La programación para crear videojuegos
+- Los idiomas
+- La música
 
 ## Tecnologías que quiero aprender 📌
 - Desarrollo web
